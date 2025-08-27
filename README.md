@@ -64,6 +64,7 @@ streamlit run app-pdf.py
 ### 📌 chat History & Download Option
 ![WhatsApp Image 2025-08-27 at 23 05 24_0ab59d54](https://github.com/user-attachments/assets/827b31df-31e2-4cdd-8e63-f18f20eb5ddd)
 
+<img width="1880" height="918" alt="Screenshot 2025-08-27 232150" src="https://github.com/user-attachments/assets/c4165a1a-9d1e-4b20-812f-284f22606566" />
 
 
 
@@ -77,11 +78,3 @@ SummarEase saves time by:
 * Providing **downloadable summaries** for later use.
 * Offering a **student & researcher-friendly tool** for productivity.
 
----
-
-
----
-
-⚡ This is the **complete code** for `README.md`.  
-Would you like me to also **generate the `requirements.txt` file** for SummarEase so everything is plug-and-play?
-```
